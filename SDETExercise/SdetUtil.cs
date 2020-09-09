@@ -6,7 +6,7 @@ namespace SDETExercise
     /// <summary>
     /// Util class for Sdet
     /// </summary>
-    public class SdetUtilz
+    public class SdetUtil
     {
         /// <summary>
         /// This method returns the LongestWord from a given sentence
