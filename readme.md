@@ -5,7 +5,7 @@ Have into account:
 Steps:
 1)  git clone https://github.com/afranco7/SDETExercise.git
 2)  go to folder SDETExercise/
-3)  dotnet retore
+3)  dotnet restore
 4)  dotnet build
 5)  go to folder  UnitTests/
 6)  dotnet test
